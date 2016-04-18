@@ -38,7 +38,7 @@ body{
 	vertical-align: center;
 	padding-left: 100px;
 	margin-top: 150px;
-	margin-bottom: 200px;
+	margin-bottom: 250px;
 
 }
 
@@ -107,6 +107,11 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+
+@media (max-width: 768px){
+.containerjumbotron p {
+	max-width: 260px;
+	}
 
 @media (max-width: 768px){
 	.containertext{
