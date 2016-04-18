@@ -1,0 +1,32 @@
+Tech Test Workings
+
+1) I initially set up all of the folder structure using command line in terminal, I first navigated to the storage location I wanted to create the folder in and then used the ‘mkdir’ & ’Touch’ commands to build the root folder, sub folders & files I needed to make the site.
+
+2) I then opened sublime text and created the basic structure of the page in HTML and used bootstrap css columns with applied custom created media rules so that the site would work on mobile and tablet. Finally I linked all the vendor css & javascript required for bootstrap, jQuery, modernizr to work etc. I used a bootstrap as a framework as I have good experience with this and it helps me a lot with the responsive css mobile first elements. I also made a style.css CSS file that edits the bootstrap core css rules and allows me to add my own css elements required for the custom design. 
+
+3) I linked the jQuery library file to the html page for the fade option to work on the top Jumbotron text - I set this to 3000 milliseconds as it required a 3 second fade - I made a separate fade.js file so that the script commands worked outside of the HTML page as this is best practice with javascript and jQuery.
+
+4) I took the main .jpg image mock up I was working from and cut it up in photoshop so that I had the images to use within the site mockup, when I had these I went onto populate the div product holders I had a created.
+
+5) I changed the font weight and size to a more readable scale and added mew media rules on the style.css stylesheet.
+
+6) I was testing responsive as I went - best practice is to start with mobile sizing and work up.
+
+7) I added the folder to github repository with the command line.
+
+8) I pushed my final origin master to my repository https://github.com/JordyRacer/french-connection-font-end-test
+
+
+I encountered issues throughout with the sizing of columns and getting things to look like the mock up image. The way I got around this was to clearly think through what was actually happening within the CSS and HTML as opposed to what bootstrap could do.
+
+
+It took me a little over 2 hours but once I was on a roll I couldn’t stop : )
+
+
+
+
+
+
+
+ 
+
